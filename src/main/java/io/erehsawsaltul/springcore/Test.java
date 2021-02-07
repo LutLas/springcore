@@ -8,6 +8,10 @@ import io.erehsawsaltul.springcore.properties.CountriesAndLanguages;
 import io.erehsawsaltul.springcore.reftypes.Student;
 import io.erehsawsaltul.springcore.set.CarDealer;
 
+/**
+ * @author Muyoba Lutlas
+ *
+ */
 public class Test {
 
 	@SuppressWarnings("resource")
